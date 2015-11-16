@@ -105,6 +105,10 @@ class SomeClass
     method_body
   end
 
+  def memoized_method
+    @_memoized_method ||= 1
+  end
+
   protected
 
   attr_reader :foo
