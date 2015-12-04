@@ -187,6 +187,14 @@ Email
 [MailView]: https://github.com/37signals/mail_view
 [ActionMailer Preview]: http://api.rubyonrails.org/v4.1.0/classes/ActionMailer/Base.html#class-ActionMailer::Base-label-Previewing+emails
 
+Web
+---
+
+* Prefer local assets to externally linked assets.
+* Avoid externally linked assets which must load before the page renders or
+  becomes interactive.
+* Avoid linking to assets over http.
+
 JavaScript
 ----------
 * Use Coffeescript, ES6 with [babel], or another language that compiles to
