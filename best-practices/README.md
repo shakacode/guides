@@ -190,9 +190,8 @@ Email
 Web
 ---
 
-* Prefer local assets to externally linked assets.
-* Avoid externally linked assets which must load before the page renders or
-  becomes interactive.
+* Avoid a Flash of Unstyled Text, even when no cache is available.
+* Avoid rendering delays caused by synchronous loading.
 * Avoid linking to assets over http.
 
 JavaScript
