@@ -14,6 +14,7 @@ detailed, language/framework-specific style guides:
 
 * [Android](android)
 * [Backbone](backbone)
+* [CoffeeScript](coffeescript)
 * [Ember.js](ember)
 * [ERb](erb)
 * [Git](git)
