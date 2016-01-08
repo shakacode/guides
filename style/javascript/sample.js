@@ -7,6 +7,6 @@ class Cat {
 }
 
 const somePerson = {
-  name: "Ralph",
-  company: "thoughtbot",
-}
+  name: 'Ralph',
+  company: 'thoughtbot',
+};
