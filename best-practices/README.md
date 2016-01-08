@@ -189,10 +189,9 @@ Email
 
 JavaScript
 ----------
-* Use Coffeescript, ES6 with [babel], or another language that compiles to
-  JavaScript
+* Use JavaScript with [babel], or another language that compiles to JavaScript.
 * Include a `to_param` or `href` attribute when serializing ActiveRecord models,
-  and use that when constructing URLs client side, rather than the ID. Example:
+  and use that when constructing URLs client side, rather than the ID.
 
 [babel]: http://babeljs.io/
 
