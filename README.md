@@ -1,3 +1,7 @@
+ShakaCode fork of Thoughtbot's excellent "guides".
+
+This gives us a scratchpad to update as we see fit, and possibly submit PR's back to Thoughtbot.
+
 Guides
 ======
 
@@ -44,9 +48,8 @@ Credits
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
 
-Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
+
 
 License
 -------
